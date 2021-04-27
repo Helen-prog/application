@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: yellow;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h1{
+    color: red;
+}
+p{
+    color: blue;
+}
